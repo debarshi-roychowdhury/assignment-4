@@ -134,8 +134,8 @@ body {
 #menu-tile {
   background: url('../images/menu-tile.png') no-repeat;
   background-position: center;
-  height: 250px;
-  width: 100%;
+  height: 50px;
+  width: 50%;
 }
 #specials-tile {
   background: url('../images/specials-tile.jpg') no-repeat;
